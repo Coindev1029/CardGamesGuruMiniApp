@@ -92,4 +92,4 @@ To see all possible API requests and contracts, you can use Swagger.
 
 Just add ``/swagger`` to the end: ``https://localhost:5001/swagger``
 
-Other information about mini-app on Wiki: **[CardGamesGuruMiniApp Wiki](https://github.com/Alkamal30/CardGamesGuruMiniApp/wiki)** 
+Other information about mini-app on Wiki: **[CardGamesGuruMiniApp Wiki](https://github.com/Coindev1029/CardGamesGuruMiniApp/wiki)** 
